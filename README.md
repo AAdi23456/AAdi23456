@@ -1,6 +1,15 @@
-<p align="center">
-  <img width="2000" src="https://frolicking-cheesecake-967323.netlify.app/photo_2023-05-01_00-22-27.jpg">
-</p>
+<div align="center">
+  <h1>Hi 👋, I'm Aaditya jha</h1>
+  Motivated and adventurous aspiring Backend Developer with strong
+proficiency in JavaScript, Node.js, Express, MongoDB, HTML, CSS,
+and REST API.Excited to
+contribute my skills and knowledge to a reputable company.
+  
+  <img  height="300" width="2000" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif" alt="your banner">
+</div>
+<!-- <p align="center">
+  <img height="300" width="2000" src="https://miro.medium.com/max/1280/0*-u0b7K0Q6zfBcQqT.gif">
+</p> -->
 
 # 💫 About Me:
 🔭 Visit my [portfolio](https://AAdi23456.github.io)<br>👯 I’m looking to work as Full Stack Web Developer<br>🤝 How to reach me adityakumarbh46@gmail.com<br>🌱 I’m currently learning Full Stack Web Development course at Masai School<br>💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express<br>⚡  Fun fact I love to read and enjoy going on road trips<br><br>
