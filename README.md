@@ -12,7 +12,15 @@ contribute my skills and knowledge to a reputable company.
 </p> -->
 
 # 💫 About Me:
-🔭 Visit my [portfolio](https://AAdi23456.github.io)<br>👯 I’m looking to work as Full Stack Web Developer<br>🤝 How to reach me adityakumarbh46@gmail.com<br>🌱 I’m currently learning Full Stack Web Development course at Masai School<br>💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node, MongoDB, Express<br>⚡  Fun fact I love to read and enjoy going on road trips<br><br>
+🔭 Visit my [portfolio](https://AAdi23456.github.io)
+
+👯 I’m looking to work as Full Stack Web Developer
+
+🤝 How to reach me adityakumarbh46@gmail.com
+
+🌱 I’m currently learning Full Stack Web Development course at Masai School
+
+💬 Ask me about HTML, CSS, JavaScript, Redux, Node, MongoDB, Express
 
 
 ## 🌐 Socials:
