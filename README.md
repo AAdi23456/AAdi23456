@@ -36,8 +36,8 @@ contribute my skills and knowledge to a reputable company.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AAdi23456&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AAdi23456&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AAdi23456&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ### 😂 Random Dev Meme
 <img src="https://i.pinimg.com/originals/12/35/1a/12351a0f8e62cdcc1af888dcd33831e8.jpg" width="512px"/>
