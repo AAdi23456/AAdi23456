@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Gagan BN](https://gravity-gagan.github.io/)
+* 🖥️  See my portfolio at [Gagan BN](https://aadi23456.github.io/)
 * ✉️  You can contact me at [gaganbn1999@gmail.com](mailto:gaganbn1999@gmail.com)
 
 ### Skills
